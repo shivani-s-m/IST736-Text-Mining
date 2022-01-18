@@ -1,6 +1,6 @@
 # IST736- Text Mining
 
-This contains the coursework for IST 735- Text Mining at Syracuse University
+This contains the coursework for IST 736- Text Mining at Syracuse University
 
 # Key Learnings
 
